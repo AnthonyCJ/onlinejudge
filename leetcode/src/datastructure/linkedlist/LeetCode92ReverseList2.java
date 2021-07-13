@@ -69,7 +69,6 @@ public class LeetCode92ReverseList2 {
             // update nextNode
             nextNode = oldHead.next;
         }
-
         return dummyHead.next;
     }
 }
