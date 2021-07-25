@@ -4,7 +4,7 @@ public class LeetCode116PopulatingNextRightPointers {
     /**
      * Recursion
      * Version 1.0 2021-07-17 by XCJ
-     * Time: O(n), Space: O(logn)
+     * Time: O(n), Space: O(height)
      * @param root root of the tree to populate the next right pointers
      * @return root after connection
      */
